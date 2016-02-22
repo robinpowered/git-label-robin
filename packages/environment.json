@@ -1,0 +1,5 @@
+[
+  { "name": "test", "color": "#fad8c7" },
+  { "name": "staging", "color": "#fad8c7" },
+  { "name": "beta", "color": "#fad8c7" }
+]

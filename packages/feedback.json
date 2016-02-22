@@ -1,0 +1,5 @@
+[
+  { "name": "question", "color": "#cc317c" },
+  { "name": "discussion", "color": "#cc317c" },
+  { "name": "rfc", "color": "#cc317c" }
+]

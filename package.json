@@ -1,0 +1,28 @@
+{
+  "name": "git-label-robin",
+  "description": "Robin-style label packages for git-label",
+  "version": "1.0.0",
+  "homepage": "https://robinpowered.com/blog/best-practice-system-for-organizing-and-tagging-github-issues/",
+  "author": {
+    "name": "Robin Powered, Inc.",
+    "email": "engineering@robinpowered.com",
+    "url": "https://robinpowered.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/robinpowered/git-label-robin.git"
+  },
+  "bugs": {
+    "url": "https://github.com/robinpowered/git-label-robin/issues"
+  },
+  "license": "MIT",
+  "scripts": {
+    "postpublish": "git push && git push --tag"
+  },
+  "keywords": [
+    "labels",
+    "github",
+    "git",
+    "utils"
+  ]
+}

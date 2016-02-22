@@ -1,0 +1,6 @@
+[
+  { "name": "bug", "color": "#EE3F46" },
+  { "name": "regression", "color": "#EE3F46" },
+  { "name": "production", "color": "#EE3F46" },
+  { "name": "security", "color": "#EE3F46" }
+]
